@@ -1,1 +1,6 @@
-This will be an awesome *website*
+---
+Title: Home
+---
+All about this website
+
+Go [home] (index.md)
