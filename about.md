@@ -1,6 +1,6 @@
 ---
-Title: About
+title: About
 ---
 All about this website
 
-Go [home] (index.md)
+Go [home](index.md)
